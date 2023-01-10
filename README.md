@@ -1,2 +1,2 @@
 # cdk-IaC-samples
-Samples for aws cdk
+Samples for aws cdk for building aws Infrastructure
